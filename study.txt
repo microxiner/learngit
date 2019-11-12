@@ -1,1 +1,2 @@
 This is a new test txt
+Git is a very strong distributed version control tool
